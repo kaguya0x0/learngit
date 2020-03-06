@@ -1,2 +1,2 @@
 git is balabla and balabla. 
-git is labalaba.
+git is labalaba under the GPL.
